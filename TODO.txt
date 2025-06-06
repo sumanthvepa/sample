@@ -1,2 +1,2 @@
-issue001-first-commit: Create the TODO file
+[DONE]issue001-first-commit: Create the TODO file
 
