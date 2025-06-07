@@ -1,3 +1,5 @@
+[DONE]issue004-readme-markdown-error:
+  Fix markdown syntax for headings in README
 [DONE]issue003-copyleft-notice:
   Add GNU copyleft notice and a README
 [DONE]issue002-nginx-container:
