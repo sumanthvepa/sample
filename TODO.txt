@@ -1,3 +1,5 @@
+[DONE]issue003-copyleft-notice:
+  Add GNU copyleft notice and a README
 [DONE]issue002-nginx-container:
   Create nginix container for hosting websites
 [DONE]issue001-first-commit: Create the TODO file
