@@ -1,4 +1,4 @@
-issue002-nginx-container:
+[DONE]issue002-nginx-container:
   Create nginix container for hosting websites
 [DONE]issue001-first-commit: Create the TODO file
 
